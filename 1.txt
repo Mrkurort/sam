@@ -1,1 +1,2 @@
-Myfixin 1.txt
+Myfixin 1.txt and fixin 1.txt
+
