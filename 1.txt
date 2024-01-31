@@ -1,1 +1,1 @@
-new rowin 1.txt file
+Myfixin 1.txt
